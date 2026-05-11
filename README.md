@@ -1,16 +1,45 @@
-# React + Vite
+# Rise at Seven Homepage Recreation
+### Technical Assessment: DeveloperLook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-fidelity recreation of the [Rise at Seven](https://riseatseven.com/) homepage, focusing on 100% design accuracy, fluid motion, and mobile-first responsiveness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔗 Live Demo
+**[View the Live Project Here](https://assessment-job-task-developer-look.vercel.app/)** 
+*(Note: Replace with your actual deployment URL from Vercel, Netlify, or GitHub Pages)*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🤖 AI-Augmented Workflow
+This project was developed using a specialized AI stack to ensure pixel-perfect precision and rapid architectural scaffolding.
 
-## Expanding the ESLint configuration
+*   **Antigravity:** Used for autonomous scaffolding and real-time browser verification of CSS layouts.
+*   **Gemini:** Utilized for multimodal vision analysis to extract design tokens (hex codes, spacing, and typography) directly from site screenshots.
+*   **ChatGPT:** Employed for complex animation logic and refining the Framer Motion staggered-entry sequences.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+*   **Framework:** Next.js 14+ (App Router)
+*   **Styling:** Tailwind CSS
+*   **Animations:** Framer Motion / GSAP
+*   **Icons:** Custom SVG / Lucide React
+
+---
+
+## 📱 Core Features Implemented
+*   **100% Design Match:** Exact replication of the "Search-First Creative" aesthetic.
+*   **Responsive Architecture:** Seamless transition from Desktop to Mobile.
+*   **Hamburger Menu:** Full-screen mobile takeover with staggered text animations and state-driven transitions.
+*   **Scroll Reveal:** Intersection Observer-driven animations matching the original site's "Reveal" feel.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone & Install
+```bash
+git clone [https://github.com/codewitharafath6688/Assessment-job-task-DeveloperLook.git](https://github.com/codewitharafath6688/Assessment-job-task-DeveloperLook.git)
+cd Assessment-job-task-DeveloperLook
+npm install
