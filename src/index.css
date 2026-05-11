@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap');
+
+body {
+  background-color: #efeeec;
+  font-family: 'Montserrat', sans-serif;
+  overflow-x: clip; /* clip prevents horizontal scroll without breaking position:sticky */
+  /* Don't forget to apply the font! */
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
