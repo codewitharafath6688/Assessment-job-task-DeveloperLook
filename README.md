@@ -6,8 +6,7 @@ A high-fidelity recreation of the [Rise at Seven](https://riseatseven.com/) home
 ---
 
 ## 🔗 Live Demo
-**[View the Live Project Here](https://rise-at-seven-home-page.vercel.app/)** 
-*(Note: Replace with your actual deployment URL from Vercel, Netlify, or GitHub Pages)*
+**[View the Live Project Here](https://rise-at-seven-home-page.vercel.app/)**
 
 ---
 
